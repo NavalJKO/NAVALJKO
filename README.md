@@ -1,4 +1,5 @@
-## Hello, this John Kenneth Naval repository! 👋
+## Practice Exam
+## Hello, this NavalJKO repository! 👋
 
 <!--
 **NavalJKO/NAVALJKO** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
